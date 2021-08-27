@@ -1,3 +1,11 @@
+# Brayden Brackett's First CS193 Homework
+
+## Bulleted list of my favorite things about CS193
+
+- Very relaxed
+- The TAs are super nice
+- Teaches me important programming 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
